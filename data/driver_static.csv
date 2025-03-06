@@ -1,0 +1,101 @@
+driver_id,first_name,last_name,phone_number,email,license_number,vehicle,account_creation_date
+D38331,Paulina,Baquero,+34872 588 130,baquero358@yahoo.com,JN082074,Chevrolet Hatchback 2019,2020-07-24
+D94500,Úrsula,Saez,+34727 190 222,saez329@gmail.com,CI579180,Volkswagen Sedan 2022,2020-12-16
+D82862,Mercedes,Barberá,+34885 72 07 46,barberá599@hotmail.com,ME818058,Mercedes-Benz SUV 2023,2023-05-10
+D38832,Jacobo,Huertas,+34881257140,huertas608@hotmail.com,ZH723457,Jeep Sedan 2021,2020-10-22
+D47250,Carlota,Montes,+34988 57 90 95,montes680@outlook.com,XF542238,Hyundai Sedan 2015,2021-01-27
+D65039,Ariel,Martorell,+34724 529 971,martorell138@yahoo.com,CJ356736,Volkswagen Hatchback 2022,2023-09-20
+D40993,Sandalio,Amo,+34944 17 98 51,amo248@hotmail.com,QD446635,Volkswagen Sedan 2023,2024-01-14
+D68987,Débora,Elorza,+34 845 85 11 96,elorza260@outlook.com,ID152825,Mercedes-Benz Sedan 2017,2021-05-26
+D65611,Anna,Díez,+34 925820739,díez491@hotmail.com,KJ310281,Jeep Sedan 2021,2021-12-13
+D21469,Belén,Prieto,+34 976 39 66 44,prieto925@yahoo.com,PG277647,Chevrolet Sedan 2018,2022-07-06
+D69834,Lázaro,Santiago,+34888901499,santiago516@gmail.com,YG102150,Nissan SUV 2022,2023-12-28
+D41691,Octavio,Tudela,+34 946 69 75 60,tudela67@hotmail.com,ZT825290,Ford Sedan 2020,2020-05-03
+D76929,Catalina,Pallarès,+34812 18 51 80,pallarès15@outlook.com,HA472918,Mercedes-Benz SUV 2019,2024-02-04
+D16163,Alberto,Cal,+34934138957,cal185@outlook.com,UQ041052,Hyundai Truck 2017,2022-03-30
+D80054,María Jesús,Cantón,+34 826899895,cantón866@aol.com,QN352409,Nissan SUV 2016,2023-08-19
+D30350,Ligia,Navarro,+34807847461,navarro115@aol.com,CR300739,Kia Sedan 2023,2023-01-16
+D62866,Elodia,Manzano,+34 847 54 71 56,manzano531@gmail.com,AV229023,BMW Coupe 2022,2020-05-25
+D88041,Piedad,Álamo,+34727 59 81 68,álamo620@outlook.com,PV917738,Honda Coupe 2015,2021-01-16
+D10112,Bernardino,Morell,+34872 361 659,morell952@yahoo.com,RR037440,Jeep Hatchback 2018,2021-02-03
+D49265,Sergio,Girona,+34930642512,girona685@hotmail.com,SS415944,Audi Coupe 2020,2022-08-02
+D67206,Victorino,Moles,+34 884 41 99 36,moles885@outlook.com,IZ035593,Mazda Truck 2020,2021-01-04
+D46560,Geraldo,Toro,+34 974 267 339,toro759@outlook.com,GW858524,Mazda Sedan 2016,2023-02-08
+D35821,Wálter,Ribas,+34 693658529,ribas167@aol.com,NO296477,Chevrolet SUV 2018,2021-07-31
+D78267,Cándida,Díez,+34 920 54 85 10,díez928@outlook.com,VC190422,Hyundai SUV 2022,2022-01-30
+D65122,Victoria,Bermúdez,+34924 410 712,bermúdez250@gmail.com,FX023680,BMW Sedan 2022,2023-06-25
+D61149,Esther,Mancebo,+34 985230103,mancebo37@hotmail.com,WX255877,Audi Sedan 2022,2020-07-25
+D67014,Ágata,Conesa,+34 985 91 24 53,conesa741@yahoo.com,HL899722,Kia Coupe 2019,2022-01-25
+D48462,Candela,Vicente,+34 971 337 515,vicente35@yahoo.com,DW853810,Ford Hatchback 2021,2020-03-06
+D71177,Lucio,Montero,+34980 520 329,montero126@gmail.com,ZE124438,Toyota Coupe 2017,2020-05-16
+D25220,Violeta,Rincón,+34800110603,rincón396@gmail.com,SX840674,Mazda Coupe 2016,2023-09-25
+D56549,Primitivo,Rosell,+34 975 979 187,rosell157@yahoo.com,EN090316,Toyota Hatchback 2018,2022-12-01
+D95079,Adrián,Amo,+34983 37 40 32,amo491@outlook.com,SF515565,Honda Hatchback 2023,2023-11-06
+D38500,Paca,Garrido,+34923 376 158,garrido650@yahoo.com,ID750981,Volkswagen Truck 2019,2022-03-16
+D33706,Clímaco,Cuevas,+34 825986136,cuevas699@yahoo.com,EQ251211,Volkswagen Sedan 2016,2024-02-23
+D70679,Jordán,Uría,+34 987 691 762,uría513@aol.com,NY999260,Subaru Sedan 2015,2021-12-11
+D39467,Félix,Márquez,+34920 51 77 72,márquez354@outlook.com,JU284995,Mercedes-Benz SUV 2019,2022-08-20
+D35349,Iker,Sáenz,+34 661 112 010,sáenz433@gmail.com,DZ432933,Subaru Truck 2016,2023-07-26
+D34022,Clarisa,Chaves,+34822 76 25 26,chaves536@gmail.com,UE281606,Ford Hatchback 2020,2022-02-21
+D98145,Toni,Amorós,+34 748238060,amorós330@yahoo.com,FZ119488,Tesla SUV 2021,2023-05-12
+D75383,Jacinta,Lumbreras,+34 834395021,lumbreras907@gmail.com,RM086256,Audi SUV 2019,2022-09-22
+D58873,Victoriano,Mariño,+34 800 99 99 63,mariño456@gmail.com,VR498618,Ford Sedan 2015,2023-05-30
+D31804,Miriam,Camino,+34 710 012 678,camino735@outlook.com,SP123907,Jeep Coupe 2022,2022-07-04
+D12907,Ernesto,Zabala,+34735 73 99 94,zabala286@hotmail.com,NJ326038,Subaru Sedan 2019,2020-09-22
+D34214,Urbano,Cordero,+34 924 11 85 18,cordero378@gmail.com,ZE610322,Tesla Sedan 2016,2023-08-14
+D58977,Ascensión,Pina,+34973 84 13 11,pina467@outlook.com,QR273922,Kia Hatchback 2020,2021-12-22
+D98621,Alma,Palma,+34967288335,palma741@yahoo.com,MB015341,Kia Truck 2022,2022-11-02
+D90847,Araceli,Salmerón,+34921038457,salmerón796@yahoo.com,DS050893,Volkswagen SUV 2019,2021-10-11
+D47012,Jacinto,Múgica,+34 928898206,múgica177@gmail.com,BU780466,Chevrolet Truck 2017,2022-06-13
+D13378,Chucho,Acero,+34 872240581,acero665@gmail.com,SN255140,Subaru Hatchback 2019,2020-06-15
+D83357,Florencia,Torrecilla,+34973 12 26 70,torrecilla603@yahoo.com,UR034412,BMW Sedan 2022,2020-03-24
+D36037,Ana Belén,Martínez,+34 872 577 316,martínez901@aol.com,PZ102004,Tesla SUV 2022,2021-09-26
+D60852,Ciro,Sarabia,+34847 48 86 20,sarabia375@outlook.com,WB733212,Volkswagen Truck 2023,2023-10-17
+D22963,Julio,Gilabert,+34 803630352,gilabert519@gmail.com,YT407673,Audi Truck 2019,2024-02-18
+D55473,Jacinto,Pinto,+34862 398 563,pinto589@outlook.com,TX307352,Audi Coupe 2021,2020-06-02
+D45029,Nilda,Villena,+34 986 69 08 73,villena24@gmail.com,RW214629,Nissan Hatchback 2023,2021-07-15
+D61987,Raquel,Bello,+34847 272 541,bello147@yahoo.com,YG631279,Mazda Coupe 2020,2021-01-28
+D43345,Paz,Arroyo,+34 843512645,arroyo243@hotmail.com,CA527232,Mercedes-Benz Truck 2016,2020-10-25
+D38424,Bienvenida,Checa,+34823 972 851,checa891@yahoo.com,JO069505,Nissan Hatchback 2018,2023-04-22
+D37294,Roberto,Mate,+34 981 83 34 64,mate962@outlook.com,XM661358,Subaru SUV 2019,2020-12-28
+D31988,Ovidio,Salom,+34973 708 441,salom1@hotmail.com,KS489511,Honda Coupe 2016,2021-04-27
+D88661,Mirta,Mascaró,+34 841 617 376,mascaró854@yahoo.com,VD978501,Tesla SUV 2021,2022-01-10
+D10310,Pía,Prats,+34803791971,prats87@outlook.com,XU388765,Audi Truck 2016,2022-04-15
+D15020,Mireia,Luna,+34841 792 631,luna749@yahoo.com,IH817918,Mercedes-Benz Truck 2022,2023-02-22
+D19545,Daniel,Múgica,+34 841 96 27 06,múgica948@yahoo.com,BD266859,Volkswagen Hatchback 2019,2023-06-22
+D11521,Guadalupe,Quesada,+34 885 91 14 48,quesada834@gmail.com,UM534046,Mercedes-Benz Coupe 2021,2023-05-07
+D95462,Filomena,Vilanova,+34845041465,vilanova154@gmail.com,VG198330,Hyundai SUV 2022,2023-01-22
+D56497,Cesar,Sainz,+34847 638 418,sainz64@aol.com,KO343630,Tesla Coupe 2018,2021-05-22
+D92159,Eloísa,Pons,+34 985314612,pons893@outlook.com,ST605630,Volkswagen Sedan 2022,2023-08-02
+D57775,Bernarda,Torrents,+34 925 36 96 02,torrents341@gmail.com,UQ843013,Hyundai Sedan 2017,2022-08-04
+D76856,Lara,Meléndez,+34 923772062,meléndez858@outlook.com,UL168380,Subaru Coupe 2018,2021-08-01
+D33738,Eugenia,Morán,+34 927 080 996,morán888@yahoo.com,HO137069,BMW Sedan 2021,2023-02-11
+D12091,Asunción,Colomer,+34 843 034 073,colomer345@yahoo.com,VV603291,Tesla Sedan 2019,2021-05-10
+D99392,Flor,Sanmartín,+34 871 646 890,sanmartín790@gmail.com,KT721579,Honda Coupe 2017,2023-12-13
+D85975,Diego,Goñi,+34803 640 933,goñi516@aol.com,AG765223,Toyota SUV 2017,2024-02-18
+D21095,Lucio,Duran,+34922473024,duran207@gmail.com,BH927196,Subaru Hatchback 2015,2023-08-03
+D15608,Samanta,Oliveras,+34 841 18 17 54,oliveras675@hotmail.com,WE446059,Tesla SUV 2021,2023-06-25
+D57672,Ainoa,Arjona,+34985 98 76 71,arjona346@yahoo.com,BL828802,Volkswagen Coupe 2020,2023-11-03
+D24080,Olivia,Peralta,+34982 986 227,peralta944@yahoo.com,KI840332,Ford Sedan 2016,2021-04-21
+D40751,Octavia,Martí,+34800 831 010,martí623@outlook.com,HE495329,Mercedes-Benz SUV 2023,2023-03-25
+D34366,Roldán,Zaragoza,+34 923 003 987,zaragoza711@gmail.com,AO556077,Kia SUV 2022,2022-10-19
+D16592,Román,Blanch,+34 922 034 816,blanch386@yahoo.com,IV706828,Jeep Truck 2021,2022-08-19
+D42743,Chuy,Sánchez,+34944 25 26 43,sánchez903@outlook.com,LF510562,Hyundai SUV 2017,2023-02-23
+D29014,Chucho,Iglesia,+34888515921,iglesia561@hotmail.com,LD208935,Hyundai Truck 2018,2022-12-30
+D80955,Encarnación,Baños,+34 941 18 15 15,baños763@yahoo.com,XI373230,BMW SUV 2022,2020-10-22
+D94223,Jorge,Suarez,+34946 766 513,suarez175@yahoo.com,GG528573,Mazda Coupe 2021,2023-04-09
+D79567,Fabián,Aramburu,+34800640412,aramburu993@gmail.com,ME270670,Tesla Truck 2019,2023-09-21
+D17018,Calista,Serna,+34846342888,serna821@outlook.com,JO190562,BMW Coupe 2020,2020-05-03
+D53828,Renato,Acevedo,+34 803 282 187,acevedo632@outlook.com,JJ257449,Jeep Truck 2016,2023-02-09
+D31086,Jose Ignacio,Royo,+34976480141,royo220@aol.com,TS149866,Mercedes-Benz Hatchback 2017,2021-03-15
+D67546,Susanita,Sala,+34 921 56 74 74,sala941@aol.com,YX017389,Ford Sedan 2023,2021-06-25
+D82461,Eutimio,Grau,+34901 525 160,grau344@gmail.com,WN965570,Honda Truck 2022,2021-03-22
+D63506,Primitivo,Feijoo,+34 972114698,feijoo71@outlook.com,BK663283,Jeep Truck 2022,2023-07-21
+D54379,Encarnación,Pablo,+34 806 38 91 88,pablo468@yahoo.com,NK811442,Honda Truck 2019,2021-11-09
+D59531,Marcos,Escobar,+34 675924524,escobar761@outlook.com,YZ226254,Honda SUV 2021,2022-01-28
+D63090,Crescencia,Valentín,+34 846584823,valentín326@hotmail.com,IA431668,Tesla Truck 2016,2021-11-04
+D78158,Sigfrido,Fábregas,+34 715 81 75 47,fábregas744@outlook.com,HU399808,Nissan SUV 2015,2020-06-28
+D51021,Lope,Ruano,+34922245780,ruano680@hotmail.com,KT943157,Honda SUV 2023,2022-02-06
+D24521,Jose Carlos,Haro,+34 879 64 26 62,haro404@hotmail.com,KJ735936,Toyota SUV 2017,2022-10-24
+D37379,Saturnina,Barrera,+34 824 047 523,barrera781@yahoo.com,GQ326579,Chevrolet Truck 2019,2020-07-09
+D90358,Corona,Rosell,+34 979 53 67 51,rosell611@outlook.com,KP891586,Kia SUV 2019,2022-01-15
