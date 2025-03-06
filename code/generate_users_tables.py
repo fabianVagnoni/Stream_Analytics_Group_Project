@@ -13,8 +13,13 @@ fake = Faker('es_ES')
 
 # --- Static DataFrame ---
 user_static = pd.DataFrame(columns=[
-    'user_id', 'first_name', 'last_name', 'email', 'phone_number', 
-    'signup_date', 'city'
+    'user_id', 
+    'first_name', 
+    'last_name', 
+    'email', 
+    'phone_number', 
+    'signup_date', 
+    'city'
 ])
 
 for _ in range(NO_OF_USERS):
@@ -46,11 +51,11 @@ user_dynamic = pd.DataFrame(columns=[
 user_ids = user_static['user_id'].tolist()
 
 for user_id in user_ids:
-    rides_taken = random.randint(0, 1000)  # Wide range for user activity
+    rides_taken = random.randint(0, 500)  # Wide range for user activity
     dynamic_data = {
         "user_id": user_id,
         "rides_taken": rides_taken,
-        "money_spent": round(rides_taken * random.uniform(10, 50), 2),  # $10-$50 per ride
+        "money_spent": round(rides_taken * random.uniform(7, 50), 2),  # $10-$50 per ride
         "avg_rating_given": round(random.uniform(4.0, 5.0) if random.random() < 0.85 else random.uniform(2.5, 4.0), 2),  # 85% chance of 4.0-5.0
         "cancellation_rate": round(random.uniform(0.0, 0.2) if random.random() < 0.9 else random.uniform(0.2, 0.5), 3),  # 90% chance of 0-20%
         "last_ride_date": fake.date_between(start_date="-1y", end_date="today")  # Recent activity

@@ -56,7 +56,12 @@ static.to_csv("./data/driver_static.csv", index=False)
 
 
 dynamic = pd.DataFrame(columns=[
-    'driver_id', 'rating', 'no_of_rides', 'cancellation_rate', 'money_earned', 'time_drived'
+    'driver_id', 
+    'rating', 
+    'no_of_rides', 
+    'cancellation_rate', 
+    'money_earned', 
+    'time_driven'
 ])
 
 # Use the same driver_ids from static
@@ -64,14 +69,14 @@ driver_ids = static['driver_id'].tolist()
 
 for driver_id in driver_ids:
     # Generate dynamic data points
-    no_of_rides = random.randint(50, 5000)  # Wide range for driver activity
+    no_of_rides = random.randint(50, 2500)  # Wide range for driver activity
     dynamic_data = {
         "driver_id": driver_id,
         "rating": round(random.uniform(4.0, 5.0) if random.random() < 0.9 else random.uniform(3.0, 4.0), 2),  # 90% chance of 4.0-5.0, 10% chance of 3.0-4.0
         "no_of_rides": no_of_rides,
         "cancellation_rate": round(random.uniform(0.0, 0.2) if random.random() < 0.95 else random.uniform(0.2, 0.5), 3),  # 95% chance of 0-20%, 5% chance of 20-50%
-        "money_earned": round(no_of_rides * random.uniform(10, 40), 2),  # $10-$40 per ride
-        "time_drived": round(no_of_rides * random.uniform(0.25, 1.0), 2)  # 15-60 minutes per ride
+        "money_earned": round(no_of_rides * random.uniform(7, 40), 2),  # $10-$40 per ride
+        "time_driven": round(no_of_rides * random.uniform(0.25, 1.0), 2)  # 15-60 minutes per ride
     }
     
     # Append to dynamic DataFrame
